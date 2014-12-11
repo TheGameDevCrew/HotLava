@@ -1,0 +1,17 @@
+Notes For adding the New_Throw script to the scene
+
+
+1.  Make sure a projectice and target are placed in the scene
+
+2.  Attach these to the new throw "Target" and "Projectile"
+    part of the script in the Inspector
+
+3.  Set firing Angle to 30 and Gravity to 50 for a nice throw
+    (This can be adjusted in the inspector to get the right
+     feel)
+
+And that should be all you need to make the throw work.
+
+I am attaching crosshair assest with my files that you can
+use as a Target 
+	
